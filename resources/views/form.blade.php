@@ -30,19 +30,19 @@
         <div class="pb-2"></div>
         <label for="priority">Priority</label>
         <ul class="items-center w-full bg-white border border-gray-200 rounded-lg sm:flex">
-            <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r dark:border-gray-600">
+            <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r">
                 <div class="flex items-center ps-3">
                     <input checked id="radio_default" type="radio" value="1" name="priority" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 focus:ring-2">
                     <label for="radio_default" class="w-full py-3 ms-2 text-sm font-medium">Default </label>
                 </div>
             </li>
-            <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r dark:border-gray-600">
+            <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r">
                 <div class="flex items-center ps-3">
                     <input id="radio_important" type="radio" value="2" name="priority" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 focus:ring-2">
                     <label for="radio_important" class="w-full py-3 ms-2 text-sm font-medium">Important </label>
                 </div>
             </li>
-            <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r dark:border-gray-600">
+            <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r">
                 <div class="flex items-center ps-3">
                     <input id="radio_urgent" type="radio" value="3" name="priority" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 focus:ring-2">
                     <label for="radio_urgent" class="w-full py-3 ms-2 text-sm font-medium">Urgent </label>
