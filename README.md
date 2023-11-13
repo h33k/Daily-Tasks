@@ -2,6 +2,10 @@
 
 Wonderful Task Taking App for your day. Created with Laravel and TailwindCSS/Flowbite.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/h33k/Daily-Tasks/main/preview.png">
+</p>
+
 Features:
 - Simple Interface
 - Create tasks with description
