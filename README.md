@@ -2,6 +2,10 @@
 
 Wonderful Task Taking App for your day. Created with Laravel and TailwindCSS/Flowbite.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/h33k/Daily-Tasks/main/preview.png">
+</p>
+
 Features:
 - Simple Interface
 - Create tasks with description
@@ -15,3 +19,4 @@ Features:
 3. create and edit .env file (copy parameters from .env.example)
 4. php artisan migrate
 5. php artisan db:seed (filling tasks, optional)
+6. php artisan key:generate (if not generated)
