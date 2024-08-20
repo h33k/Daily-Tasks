@@ -14,9 +14,9 @@ Features:
 
 ## How to Install
 
-1. composer install
+1. `composer install`
 2. create database
 3. create and edit .env file (copy parameters from .env.example)
-4. php artisan migrate
-5. php artisan db:seed (filling tasks, optional)
-6. php artisan key:generate (if not generated)
+4. `php artisan migrate`
+5. `php artisan db:seed` (filling tasks, optional)
+6. `php artisan key:generate` (if not generated)
